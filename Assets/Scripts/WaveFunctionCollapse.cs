@@ -17,6 +17,12 @@ public class WaveFunctionCollapse : MonoBehaviour
 
     private void Awake()
     {
+        //gridComponents = new List<Cell>();
+        //InitializeGrid();
+    }
+
+    public void StartWaveFunctionCollapse()
+    {
         gridComponents = new List<Cell>();
         InitializeGrid();
     }

@@ -48,9 +48,11 @@ MonoBehaviour:
   rightNeighbours:
   - {fileID: 980997200516415082}
   - {fileID: 5585603817055056119, guid: 82984e556c89a9b40902a7191b3f00f6, type: 3}
+  - {fileID: -1814481443979525387, guid: 029a125cf57512342ab8163210f798d6, type: 3}
   leftNeighbours:
   - {fileID: 980997200516415082}
   - {fileID: 8607417553410676041, guid: b861f9aedd3853d4d90750805f9d01fe, type: 3}
+  - {fileID: -1814481443979525387, guid: 029a125cf57512342ab8163210f798d6, type: 3}
   upNeighbours:
   - {fileID: 6967044638339103064, guid: 8d3e61af8e253df4d88967b6dd4e84b1, type: 3}
   - {fileID: 980997200516415082}
@@ -82,9 +84,11 @@ MonoBehaviour:
   frontNeighbours:
   - {fileID: 980997200516415082}
   - {fileID: -6071698380866242483, guid: a0e2370f433cdb74389295eb3fd50e18, type: 3}
+  - {fileID: -1814481443979525387, guid: 029a125cf57512342ab8163210f798d6, type: 3}
   backNeighbours:
   - {fileID: 980997200516415082}
   - {fileID: 8296126253530783884, guid: d030e04e7c4a577419e3b24bb6b30846, type: 3}
+  - {fileID: -1814481443979525387, guid: 029a125cf57512342ab8163210f798d6, type: 3}
 --- !u!1001 &4348642836880655223
 PrefabInstance:
   m_ObjectHideFlags: 0
