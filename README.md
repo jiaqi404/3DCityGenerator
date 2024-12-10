@@ -1,5 +1,6 @@
 # 3D Maze Generator: Wave Function Collapse in Unity
 Implement [wave function collapse](https://github.com/mxgmn/WaveFunctionCollapse) in Unity to procedurally generate 3D maze.
+
 ![Alt text](README/img.png)
 
 ## Acknowledgement
