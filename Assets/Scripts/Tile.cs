@@ -20,7 +20,6 @@ public class Tile : MonoBehaviour
         transform.localScale = Vector3.zero;
 
         // pop out animation
-        transform.DOScale(Vector3.one, 1f)
-            .SetEase(Ease.OutElastic);
+        transform.DOScale(Vector3.one, 1f).SetEase(Ease.OutBounce);
     }
 }
